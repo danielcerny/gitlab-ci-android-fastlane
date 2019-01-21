@@ -3,7 +3,7 @@
 #
 #
 
-FROM jangrewe/gitlab-ci-android
+FROM thecan/gitlab-ci-android
 MAINTAINER Daniel Cerny <daniel.troll.cerny@gmail.com>
 
 RUN mkdir $HOME/utils \
